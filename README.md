@@ -54,8 +54,6 @@ Coming Soon
 
 ## How to Contribute
 
-Please feel free to 
+Please feel free to compare the [ORIGINAL](https://github.com/CM-GDev/semantic-markup/tree/d0de96be0341c1712728649f14e12f6275f32abb) project against the latest [REFACTORED](https://github.com/CM-GDev/semantic-markup) version and provide feedback on how the project can be further updated to meet the [goals](#description) of the homework assignment.
 
-
-## Tests
-
+Here is the webpage [link](https://cm-gdev.github.io/semantic-markup/) to latest refactored version. 
