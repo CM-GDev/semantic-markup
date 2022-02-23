@@ -4,10 +4,12 @@
     margin: 0;
 }
 
+/* Setting background color for entire page */
 body {
     background-color: #d9dcd6;
 }
 
+/* Setting general header properties */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,16 +17,19 @@ header {
     color: #ffffff;
 }
 
+/* Setting <h1> tag inside header specific properties */
 header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/* Changing the colors of "seo" letters in Horiseon word */
 mark.seo {
     color: #d9dcd6;
     background: none;
 }
 
+/* Setting general navigation panel settings */
 nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -33,10 +38,12 @@ nav {
     font-size: 20px;
 }
 
+/* Setting list properties */
 nav ul {
     list-style-type: none;
 }
 
+/* Setting list item properties */
 nav ul li {
     display: inline-block;
     margin-left: 25px;
@@ -51,32 +58,34 @@ p {
     font-size: 16px;
 }
 
+/* Setting id=Main_Picture settings */
 #Main_Picture {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    /* background-image: url("/assets/images/digital-marketing-meeting.jpg"); */
-    background-size: cover;
-    background-position: center;
 }
 
+/* Setting a class for positioning images to the left */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/* Setting a class for positioning image to the right */
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
-.content {
+/* Setting Article with id=contents properties */
+#content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-.benefits {
+/* Setting Article with id=benefits properties */
+#benefits {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -87,6 +96,7 @@ p {
     background-color: #2589bd;
 }
 
+/* Setting class attribute for Article-benefits sections */
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
@@ -102,6 +112,7 @@ p {
     color: #ffffff;
 }
 
+/* Formatting h3 in benefit sections */
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
@@ -117,6 +128,7 @@ p {
     text-align: center;
 }
 
+/* Setting img properties for benefit sections */
 .benefit-lead img {
     display: block;
     margin: 10px auto;
@@ -135,6 +147,7 @@ p {
     max-width: 150px;
 }
 
+/* Setting formatting for Article-content sections */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -162,6 +175,7 @@ p {
     color: #ffffff;
 }
 
+/* Setting properties for img in content sections */
 .search-engine-optimization img {
     max-height: 200px;
 }
@@ -174,6 +188,7 @@ p {
     max-height: 200px;
 }
 
+/* Setting properties for h2 in content sections */
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -189,6 +204,7 @@ p {
     font-size: 36px;
 }
 
+/* Setting footer properties */
 footer {
     padding: 30px;
     clear: both;
