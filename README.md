@@ -16,7 +16,7 @@ The following is a screenshot of the webpage that was refactored for this homewo
 
 ## Credits
 
-For this homework assignment, I made use of the following three webpages as guides:
+For this homework assignment, I applied what was taught in the first week of class and followed the following three webpages as guides:
 - [What on Earth is Semantic Markup?](https://html.com/semantic-markup/)
 - [HTML5 Semantic Tags: What They Are and How to Use Them!](https://www.semrush.com/blog/semantic-html5-guide/)
 - [HTML Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
